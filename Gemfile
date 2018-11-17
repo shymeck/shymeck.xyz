@@ -29,3 +29,4 @@ gem "jekyll-include-cache"
 # If you have any other plugins, put them here!
 group :jekyll_plugins do
 end
+gem 'html-proofer', '3.9.2'
