@@ -1,14 +1,15 @@
 language: ruby
 cache: bundler
 gemfile: Gemfile
+install: bundle install
 rvm:
   - 2.5
 script:
   # - bundle exec jekyll algolia --source docs --destination docs/_site --config docs/_config.yml
   - bundle exec jekyll build
   - bundle exec htmlproofer ./_site --disable-external --allow_hash_href
+after_success: s3_website push
 branches:
   only:
     # Change this to gh-pages if you're deploying using the gh-pages branch
     - master
-after_success: s3_website push
