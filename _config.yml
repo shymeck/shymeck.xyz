@@ -25,12 +25,12 @@ url: https://shymeck.xyz # the base hostname & protocol for your site e.g. "http
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-breadcrumbs: false # true, false (default)
+breadcrumbs: true # true, false (default)
 words_per_minute: 200
 comments:
   provider: "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
-    shortname: "shymeck.disqus.com" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname: "shymeck" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -252,17 +252,13 @@ tag_archive:
 jekyll-archives:
   enabled:
     - year
-    - categories
+    - month
     - tags
   layouts:
     year: year-archive
-    month: month-archive
-    day: day-archive
-    category: archive-taxonomy
     tag: archive-taxonomy
   permalinks:
     year: /year-archive/
-    category: /categories/:name/
     tag: /tags/:name/
 
 # HTML Compression
