@@ -20,22 +20,13 @@ html {
   }
 
   @include breakpoint($x-large) {
-    font-size: 20px; // originally 22px
+    font-size: 19px; // originally 22px
   }
 }
 
 .pagination--pager {
   padding: 0.5em 1em;
-  float: left;
   margin: 0 10%;
   width: 30%;
-  font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
-    "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-size: 0.7em;
-  font-weight: bold;
-  text-align: center;
-  text-decoration: none;
-  color: #f1f1f1;
-  border: 1px solid #3d4046;
-  border-radius: 4px;
 }
