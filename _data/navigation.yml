@@ -6,9 +6,7 @@ main:
     url: /blog/
   - title: "Archiwum"
     url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Tutoriale"
+    url: /categories/tutoriale/
   - title: "O mnie"
     url: /o-mnie/

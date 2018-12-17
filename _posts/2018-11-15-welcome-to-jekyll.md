@@ -3,10 +3,7 @@ layout: single
 title: "Welcome to Jekyll!"
 date: 2018-11-15 17:34:34 +0100
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/header-1.jpg
-excerpt: ""
+  image: /assets/images/header-1.jpg
 tags: jekyll update
 ---
 

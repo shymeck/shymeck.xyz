@@ -3,11 +3,9 @@ layout: single
 title: "World of jekyll"
 date: 2018-12-16 19:13:42 +0100
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/main-bg.jpg
-excerpt: ""
+  image: /assets/images/header-3.jpg
 tags: jekyll update
+category: Tutoriale
 ---
 
 This is the second post on my brand new blog. Accusantium perferendis assumenda autem aut deserunt. Voluptas sunt sint omnis. Aliquam error asperiores temporibus tempora. Sit nesciunt hic repellendus inventore repellat illum nihil sequi consequatur.
