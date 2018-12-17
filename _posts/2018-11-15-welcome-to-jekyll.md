@@ -2,8 +2,12 @@
 layout: single
 title: "Welcome to Jekyll!"
 date: 2018-11-15 17:34:34 +0100
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/header-1.jpg
+excerpt: ""
 tags: jekyll update
-comments: true
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
