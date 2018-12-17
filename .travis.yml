@@ -3,12 +3,12 @@ cache: bundler
 gemfile: Gemfile
 rvm:
   - 2.5
-script: rake deploy
-# script:
-#   # - bundle exec jekyll algolia --source docs --destination docs/_site --config docs/_config.yml
-#   - bundle exec jekyll build
-#   - bundle exec htmlproofer ./_site --disable-external --allow_hash_href
-# branches:
-#   only:
-#     # Change this to gh-pages if you're deploying using the gh-pages branch
-#     - master
+script:
+  # - bundle exec jekyll algolia --source docs --destination docs/_site --config docs/_config.yml
+  - bundle exec jekyll build
+  - bundle exec htmlproofer ./_site --disable-external --allow_hash_href
+branches:
+  only:
+    # Change this to gh-pages if you're deploying using the gh-pages branch
+    - master
+after_success: s3_website push

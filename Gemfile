@@ -32,3 +32,4 @@ gem 'wdm', '~> 0.1.0' if Gem.win_platform?
 group :jekyll_plugins do
 end
 gem 'html-proofer', '3.9.2'
+gem 's3_website', '3.4.0'
