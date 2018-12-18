@@ -4,6 +4,7 @@ title: "Lorem Ipsum"
 date: 2018-11-03 09:24:46 +0100
 header:
   image: /assets/images/header-4.jpg
+  teaser: /assets/images/header-4-teaser.jpg
 tags: jekyll update
 ---
 

@@ -904,8 +904,8 @@ da-DK:
 # ------
 pl: &DEFAULT_PL
   page: "Strona"
-  pagination_previous: "Poprzedni"
-  pagination_next: "Następny"
+  pagination_previous: "Poprzednia"
+  pagination_next: "Następna"
   breadcrumb_home_label: "Strona główna"
   breadcrumb_separator: "/"
   menu_label: "Przełącz menu"
@@ -921,8 +921,8 @@ pl: &DEFAULT_PL
   comments_label: "Zostaw komentarz"
   comments_title: "Komentarze"
   more_label: "Dowiedz się więcej"
-  related_label: "Także może Ci się spodobać"
-  follow_label: "Śledź:"
+  related_label: "Podobne posty"
+  follow_label: "Obserwuj:"
   feed_label: "Feed"
   powered_by: "Powstało dzięki"
   website_label: "Strona"

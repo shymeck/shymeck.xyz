@@ -4,6 +4,7 @@ title: "Hello World!"
 date: 2018-11-15 22:13:42 +0100
 header:
   image: /assets/images/header-4.jpg
+  teaser: /assets/images/header-4-teaser.jpg
 tags: jekyll update
 ---
 

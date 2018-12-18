@@ -4,6 +4,7 @@ title: "World of jekyll"
 date: 2018-12-16 19:13:42 +0100
 header:
   image: /assets/images/header-3.jpg
+  teaser: /assets/images/header-3-teaser.jpg
 tags: jekyll update
 category: Tutoriale
 ---
