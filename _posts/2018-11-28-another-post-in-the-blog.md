@@ -1,9 +1,9 @@
 ---
 layout: single
-title: "Ipsum Lorem"
-date: 2018-10-30 12:34:42 +0100
+title: "Another post in the blog"
+date: 2018-11-28 12:34:42 +0100
 header:
-  image: /assets/images/header-2.jpg
+  image: /assets/images/header-1.jpg
   teaser: /assets/images/header-2-teaser.jpg
 tags: jekyll update
 ---

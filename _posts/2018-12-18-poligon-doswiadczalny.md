@@ -3,8 +3,8 @@ layout: single
 title: "Poligon doświadczalny"
 date: 2018-12-18 02:15:21 +0100
 header:
-  image: /assets/images/header-3.jpg
-  teaser: /assets/images/header-3-teaser.jpg
+  image: /assets/images/header-4.jpg
+  teaser: /assets/images/header-4-teaser.jpg
 tags: jekyll update
 toc: true
 toc_label: "My Table of Contents"
