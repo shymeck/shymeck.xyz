@@ -30,10 +30,10 @@ gem 'wdm', '~> 0.1.0' if Gem.win_platform?
 #
 # If you have any other plugins, put them here!
 group :jekyll_plugins do
-end
 gem 'html-proofer', '3.9.2'
 gem 's3_website', '3.4.0'
 gem 'jekyll-assets', '3.0.12'
 gem 'autoprefixer-rails', '9.4.3'
 gem 'uglifier', '4.1.20'
 gem 'jekyll-compress-images', '1.2'
+end
