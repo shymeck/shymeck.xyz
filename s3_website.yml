@@ -51,7 +51,7 @@ cloudfront_distribution_config:
 
 # cloudfront_invalidate_root: true
 
-cloudfront_wildcard_invalidation: false
+cloudfront_wildcard_invalidation: true # set to false for PRD to invalidate only changed files. True only for cheaper invalidating in DEV.
 # concurrency_level: 5
 
 # redirects:
