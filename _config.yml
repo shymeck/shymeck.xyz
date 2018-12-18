@@ -270,8 +270,8 @@ compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
   blanklines: true
-  ignore:
-    envs: development
+# ignore:
+#   envs: development
 
 # Jekyll Assets
 # - https://jekyll.github.io/jekyll-assets/
@@ -279,6 +279,7 @@ assets:
   sources:
     - assets/css
     - assets/js
+    - assets/images
   autoprefixer:
     browsers: ["last 2 versions", "> 5%", "IE 9"]
 
