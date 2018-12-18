@@ -5,6 +5,7 @@ date: 2018-10-30 12:34:42 +0100
 header:
   image: /assets/images/header-2.jpg
   teaser: /assets/images/header-2-teaser.jpg
+  alt: "placeholder image 1"
 tags: jekyll update
 ---
 

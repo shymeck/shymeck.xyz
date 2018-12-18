@@ -7,7 +7,7 @@ rvm:
 script:
   # - bundle exec jekyll algolia --source docs --destination docs/_site --config docs/_config.yml
   - JEKYLL_ENV=production bundle exec jekyll build
-  - bundle exec htmlproofer ./_site --disable-external --allow_hash_href
+  - bundle exec htmlproofer ./_site --allow_hash_href
 after_success: s3_website push
 branches:
   only:
