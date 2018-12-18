@@ -4,7 +4,7 @@ title: "Another post in the blog"
 date: 2018-11-28 12:34:42 +0100
 header:
   image: /assets/images/header-1.jpg
-  teaser: /assets/images/header-2-teaser.jpg
+  teaser: /assets/images/header-1-teaser.jpg
 tags: jekyll update
 ---
 
