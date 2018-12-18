@@ -917,7 +917,7 @@ pl: &DEFAULT_PL
   meta_label:
   tags_label: "Tagi:"
   categories_label: "Kategorie:"
-  date_label: "Ostatnia aktualizacja:"
+  date_label: "Aktualizacja:"
   comments_label: "Zostaw komentarz"
   comments_title: "Komentarze"
   more_label: "Dowiedz się więcej"
@@ -937,7 +937,7 @@ pl: &DEFAULT_PL
   comment_form_website_label: "Strona www (opcjonalna)"
   comment_btn_submit: "Skomentuj"
   comment_btn_submitted: "Komentarz dodany"
-  comment_success_msg: "Dziękuję za Twój komentarz! Zostanie dodany po akceptacji."
+  comment_success_msg: "Dziękuję za Twój komentarz!"
   comment_error_msg: "Niestety wystąpił błąd. Proszę upewnij się, że wszystkie wymagane pola zostały wypełnione i spróbuj ponownie."
   loading_label: "Trwa ładowanie strony..."
   search_placeholder_text: "Wpisz szukany termin..."
