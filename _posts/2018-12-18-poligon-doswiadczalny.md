@@ -31,10 +31,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris convallis metus 
 
 Phasellus iaculis blandit justo ac gravida. Curabitur at feugiat erat. Morbi ut nulla nec augue egestas imperdiet. Nulla finibus ligula augue, vel tincidunt orci lacinia nec. Ut efficitur placerat eleifend. Duis venenatis metus sit amet est vehicula varius commodo at ante. Proin eu mattis neque, quis bibendum lacus. Donec in vehicula neque. Maecenas vestibulum mauris euismod mauris interdum, sit amet convallis augue cursus. Ut hendrerit elit eu viverra faucibus. Fusce tempus sodales mi. Aliquam quis congue nunc, sit amet rutrum odio. Morbi non scelerisque erat. Curabitur euismod vestibulum suscipit.
 
+<img src="/assets/images/unsplash-gallery-image-1-th-sm.jpg" width="100%" data-echo="/assets/images/unsplash-gallery-image-1-th.jpg">
+
 ## Another topic
 
-In blandit nisl non quam vehicula mattis. Nullam ac tellus ut lectus rhoncus sagittis. Pellentesque interdum at diam aliquam ullamcorper. Phasellus diam magna, placerat sit amet condimentum sit amet, tincidunt ac ante. Aenean non dolor non sem porttitor scelerisque et vel lacus. Aenean vel egestas ipsum. Etiam consequat augue risus, sit amet gravida neque congue eget. Vivamus auctor est finibus, lobortis enim auctor, sollicitudin nibh.
+![image2]In blandit nisl non quam vehicula mattis. Nullam ac tellus ut lectus rhoncus sagittis. Pellentesque interdum at diam aliquam ullamcorper. Phasellus diam magna, placerat sit amet condimentum sit amet, tincidunt ac ante. Aenean non dolor non sem porttitor scelerisque et vel lacus. Aenean vel egestas ipsum. Etiam consequat augue risus, sit amet gravida neque congue eget. Vivamus auctor est finibus, lobortis enim auctor, sollicitudin nibh.
+
+And this is the second image
+
+![image3]
 
 ## And one more
 
 Nulla et placerat nulla. In ut massa sit amet turpis venenatis tempor. Quisque fermentum venenatis finibus. Sed posuere pellentesque finibus. Fusce ac libero sit amet diam lobortis dictum. Integer tempus quam lorem, in luctus quam venenatis sit amet. Nullam suscipit nisl ante, a malesuada nisl malesuada nec. Phasellus convallis, augue vitae consectetur cursus, nibh lacus placerat metus, ut laoreet ante enim eu risus. Praesent eu ornare risus, nec rhoncus arcu.
+
+[image2]: /assets/images/unsplash-gallery-image-2-th-sm.jpg 
+{: width="200px" .align-right data-echo="/assets/images/unsplash-gallery-image-2-th.jpg"}
+[image3]: /assets/images/unsplash-gallery-image-2-th-sm.jpg 
+{: width="200px" .align-center data-echo="/assets/images/unsplash-gallery-image-2-th.jpg"}
