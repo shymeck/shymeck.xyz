@@ -17,8 +17,10 @@ classes: ""
 
 What's happening today?
 
-[Text](#){: .btn .btn--primary .btn--small}
-[Text](#){: .btn .btn--light-outline}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris convallis metus tortor, vitae finibus leo efficitur sit amet. Praesent ac nulla sed nibh rhoncus imperdiet. Donec sollicitudin quis enim ac porta. Etiam eu risus a massa volutpat tincidunt eget sed dui.
+
+[Sign up](#){: .btn .btn--primary .btn--small}
+[Add to calendar](#){: .btn .btn--small}
 
 ### Something something
 
@@ -48,4 +50,4 @@ Nulla et placerat nulla. In ut massa sit amet turpis venenatis tempor. Quisque f
 [image2]: /assets/images/unsplash-gallery-image-2-th-sm.jpg 
 {: width="200px" .align-right data-echo="/assets/images/unsplash-gallery-image-2-th.jpg"}
 [image3]: /assets/images/unsplash-gallery-image-2-th-sm.jpg 
-{: width="200px" .align-center data-echo="/assets/images/unsplash-gallery-image-2-th.jpg"}
+{: width="250px" .align-center data-echo="/assets/images/unsplash-gallery-image-2-th.jpg"}
