@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Poligon doświadczalny"
-date: 2018-12-18 02:15:21 +0100
+date: 2018-12-20 10:20:21 +0100
 header:
   image: /assets/images/header-4.jpg
   teaser: /assets/images/header-4-teaser.jpg
@@ -10,7 +10,13 @@ toc: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
+excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris convallis metus tortor, vitae finibus leo efficitur sit amet. Praesent ac nulla sed nibh rhonc." # 159 characters
 classes: ""
+gallery:
+  - url: /assets/images/unsplash-gallery-image-1.jpg
+    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 ---
 
 ## This is a button
@@ -31,7 +37,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris convallis metus 
 
 ### Something more
 
-Phasellus iaculis blandit justo ac gravida. Curabitur at feugiat erat. Morbi ut nulla nec augue egestas imperdiet. Nulla finibus ligula augue, vel tincidunt orci lacinia nec. Ut efficitur placerat eleifend. Duis venenatis metus sit amet est vehicula varius commodo at ante. Proin eu mattis neque, quis bibendum lacus. Donec in vehicula neque. Maecenas vestibulum mauris euismod mauris interdum, sit amet convallis augue cursus. Ut hendrerit elit eu viverra faucibus. Fusce tempus sodales mi. Aliquam quis congue nunc, sit amet rutrum odio. Morbi non scelerisque erat. Curabitur euismod vestibulum suscipit.
+Phasellus iaculis blandit justo ac gravida. Curabitur at feugiat erat. Morbi ut nulla nec augue egestas imperdiet. Nulla finibus ligula augue, vel tincidunt orci lacinia nec. Ut efficitur placerat eleifend. Duis venenatis metus sit amet est vehicula varius commodo at ante. Proin eu mattis neque, quis bibendum lacus. 
+
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
+Donec in vehicula neque. Maecenas vestibulum mauris euismod mauris interdum, sit amet convallis augue cursus. Ut hendrerit elit eu viverra faucibus. Fusce tempus sodales mi. Aliquam quis congue nunc, sit amet rutrum odio. Morbi non scelerisque erat. Curabitur euismod vestibulum suscipit.
 
 <img src="/assets/images/unsplash-gallery-image-1-th-sm.jpg" alt="image1 - unsplash" width="100%" data-echo="/assets/images/unsplash-gallery-image-1-th.jpg">
 
