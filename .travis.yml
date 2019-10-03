@@ -6,7 +6,7 @@ rvm:
   - 2.5
 scala: 2.11.2
 jdk:
-  - oraclejdk8
+  - openjdk8
 script:
   # - bundle exec jekyll algolia --source docs --destination docs/_site --config docs/_config.yml
   - JEKYLL_ENV=production bundle exec jekyll build
