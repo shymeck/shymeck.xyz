@@ -1,6 +1,6 @@
 {% if site.comments.disqus.shortname %}
 <meta id="disqus-data" data-url="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
   data-identifier="{{ page.id }}">
-<script type="text/javascript" async src="{{ "/js/disqus.js" | prepend: site.baseurl }}"></script>
+<script type="text/javascript" async src="{{ "/assets/js/disqus.js" | prepend: site.baseurl }}"></script>
 <script type="text/javascript" async src="https://shymeck.disqus.com/embed.js"></script>
 {% endif %}
